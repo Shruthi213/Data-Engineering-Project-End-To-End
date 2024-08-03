@@ -4,3 +4,5 @@ This project is migrating on-prem (MS SQL Server) Data tables to Cloud Utilizing
 Utilizing Azure Synapse Analytics for analysis and transformation and reporting purpose.
 # Getting SQL Server Firewall Error : 26 
 Tried using On-Prem SQL database but getting  firewall connection issues So I have using Azure SQL database with Azure SQL i did not face any firewall issues.
+# Using ADF Loaded Data Into Bronze container
+Using ADF loaded data into data lake bronze container.

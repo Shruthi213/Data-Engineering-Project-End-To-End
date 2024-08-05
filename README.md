@@ -8,7 +8,7 @@ Tried using On-Prem SQL database but getting  firewall connection issues So I ha
 Using ADF loaded data into data lake bronze container.
 # Transformation Bronze to Silver
 Transform1: In this all tables date column transformed
-# Silver to Gold Data bricks
+# Silver to Gold Using Data bricks
 Transformation2: Transformed silver layer to gold layer data using databricks
 # Azure Synapse Analytics
 Created pipelines in azure synapse serverless SQL pool

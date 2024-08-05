@@ -6,10 +6,10 @@ Utilizing Azure Synapse Analytics for analysis and transformation and reporting 
 Tried using On-Prem SQL database but getting  firewall connection issues So I have using Azure SQL database with Azure SQL i did not face any firewall issues.
 # Using ADF Loaded Data Into Bronze container
 Using ADF loaded data into data lake bronze container.
-#Transformation Bronze to Silver
+# Transformation Bronze to Silver
 Transform1: In this all tables date column transformed
-#Silver to Gold Data bricks
+# Silver to Gold Data bricks
 Transformation2: Transformed silver layer to gold layer data using databricks
-#Azure Synapse Analytics
+# Azure Synapse Analytics
 Created pipelines in azure synapse serverless SQL pool
 Created view pipelines.Loaded cleanest form of data and create powerBI report

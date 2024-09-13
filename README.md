@@ -5,7 +5,7 @@ Utilizing Azure Synapse Analytics for analysis and transformation and reporting 
 # Getting SQL Server Firewall Error : 26 
 Tried using On-Prem SQL database but getting  firewall connection issues So I have using Azure SQL database with Azure SQL i did not face any firewall issues.
 # PreRequisites
-Data Source: Azure SQL Database , Data Destination : Azure Data Lake Gen2
+Data Source: Azure SQL Database , Data Destination : Azure Data Lake Gen2:Containers Siler, Bronze , Gold.
 AzureDatafactory,Databricks, Synapse Analytics, ServerlessSQL pool,PowerBI, Azure Portal
 # Using AzureDataFactory Loaded Data Into Bronze container
 Using ADF loaded data into data lake bronze container.

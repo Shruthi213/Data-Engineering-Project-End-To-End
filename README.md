@@ -1,7 +1,6 @@
 # Data-Engineering-Project-End-To-End
-Azure Data Engineering project.
-This project is migrating on-prem (MS SQL Server) Data tables to Cloud Utilizing Azure Data Factory , Databricks, Saving files in Azure data lake Bronze layer, Silver layer, Gold Layer .
-Utilizing Azure Synapse Analytics for analysis and transformation and reporting purpose.
+This project demonstrates an end-to-end data engineering solution on Microsoft Azure, designed to handle the ingestion, transformation, and analysis of data from an on-premises SQL Server database to a comprehensive reporting platform in Power BI. The solution uses Azure Data Lake Storage Gen2, Azure Data Factory, Databricks, and Azure Synapse Analytics, with added security managed through Azure Key Vault.
+
 ### Project Architecture:
 ![image](https://github.com/user-attachments/assets/2d5b977d-5a57-48da-ac86-b66f4a1c1b39)
 

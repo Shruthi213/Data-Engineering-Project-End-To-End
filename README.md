@@ -31,7 +31,7 @@ Data is ingested from an on-premises SQL Server database using SHIR and ADF, mov
 ##### Data Transformation:
 Data in the Bronze layer is cleansed and transformed into the Silver layer.
 Databricks processes the Silver data and produces a refined dataset in the Gold layer.
-###### Data Loading and Analytics:
+##### Data Loading and Analytics:
 The transformed data from the Gold layer is loaded into Azure Synapse Analytics.
 Power BI accesses the data from Synapse to create interactive reports and visualizations.
 Security
